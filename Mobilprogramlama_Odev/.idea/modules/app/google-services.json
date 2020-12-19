@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "768324746222",
+    "project_id": "mobilprogramlamaodev-e79f8",
+    "storage_bucket": "mobilprogramlamaodev-e79f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768324746222:android:25620f7b428d34244cecff",
+        "android_client_info": {
+          "package_name": "com.deniz.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768324746222-4ot70sa2nnjkt41urdhr4m80o6eai3uv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deniz.myapplication",
+            "certificate_hash": "e92642f709392bb4c5a2a3553773a81ae3c7e1ef"
+          }
+        },
+        {
+          "client_id": "768324746222-6ehkmo7g0pgq7dq0s45519uv3tidn1e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6bAHvBJVbpnnyj09fK084vlQbtNiSlks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768324746222-6ehkmo7g0pgq7dq0s45519uv3tidn1e8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

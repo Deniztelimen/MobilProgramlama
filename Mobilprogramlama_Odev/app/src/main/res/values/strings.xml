@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobilprogramlama_Odev</string>
+    <string name="sorumlulukBeani">Bu uygulama bir aracı uygulamadır. Kişilerin yaptı davranışların sorumluluğu tamamen kişiye aittir.</string>
+    <string name="sistemgirisAnaekran">Sisteme Giriş Yap</string>
+    <string name="esyaKaybettim">Eşya kaybettim</string>
+    <string name="esyaBuldum">Eşya buldum!</string>
+</resources>
